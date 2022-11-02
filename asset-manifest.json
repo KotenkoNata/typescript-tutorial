@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KotenkoNata/typescript-tutorial/static/css/main.84ba924f.css",
+    "main.js": "/KotenkoNata/typescript-tutorial/static/js/main.ee7aec39.js",
+    "index.html": "/KotenkoNata/typescript-tutorial/index.html",
+    "main.84ba924f.css.map": "/KotenkoNata/typescript-tutorial/static/css/main.84ba924f.css.map",
+    "main.ee7aec39.js.map": "/KotenkoNata/typescript-tutorial/static/js/main.ee7aec39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ba924f.css",
+    "static/js/main.ee7aec39.js"
+  ]
+}
